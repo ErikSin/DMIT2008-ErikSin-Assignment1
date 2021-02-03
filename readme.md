@@ -23,4 +23,4 @@ To build project for production, run command
 >npm run build
 
 ---
-Deployed through netlify: https://app.netlify.com/sites/gen-erik-dev-2008-1/settings/general
+Deployed through netlify: www.gen-erik-dev-2008-1.netlify.app
