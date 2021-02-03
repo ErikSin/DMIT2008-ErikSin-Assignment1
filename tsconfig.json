@@ -1,0 +1,15 @@
+{
+    "compilerOptions": {
+      "module": "es6",
+      "lib": ["ES2015", "DOM"],
+      "noImplicitAny": false,
+      "removeComments": true,
+      "preserveConstEnums": true,
+      "sourceMap": true,
+      "noEmit": true,
+      "moduleResolution": "node"
+
+    },
+    "include": ["./src/ts/*", "src/ts/views/views.ts"],
+    "exclude": ["node_modules",]
+}

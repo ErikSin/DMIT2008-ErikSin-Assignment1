@@ -1,0 +1,29 @@
+.someStyle
+{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    padding: 0 15px;
+    margin: 15px;
+    font-family: Impact;
+    max-width: 400px;
+    border-radius: 15px;
+    box-shadow: 3px 3px 5px 6px #ccc;
+}
+
+.someStyle>h2
+{
+    flex-basis: 100%;
+}
+
+.someStyle label
+{
+    font-style: italic;
+}
+
+
+.someStyle>div
+{
+    flex-basis: 50%;
+    display: flex;
+}
